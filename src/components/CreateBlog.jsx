@@ -1,9 +1,11 @@
 import { useState } from "react";
+import { useNavigate } from "react-router-dom";
 
 const CreateBlog = () => {
     const [title, setTitle] = useState("");
     const [body, setBody] = useState("");
-    const [author, setAuthor] = useState("");
+    const [author, setAuthor] = useState("Noob KB");
+    const navigate = useNavigate();
 
     const handleSubmit = (event) => {
         event.preventDefault();
@@ -14,8 +16,11 @@ const CreateBlog = () => {
             headers: {"Content-Type": "application/json"},
             body: JSON.stringify(blog)
         }) .then (() => {
-            console.log("New blog has been added!")
+            console.log("New blog has been added!");
+            navigate("/");
         })
+
+        
     }
 
     return (
