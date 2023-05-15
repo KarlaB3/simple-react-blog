@@ -1,46 +1,34 @@
 {
   "blogs": [
     {
-      "title": "Let the journey begin!",
-      "body": "A life changing decision to commence the Coder Academy Bootcamp.",
+      "title": "Let the Journey Begin!",
+      "body": "Transitioning careers can be both daunting and exhilarating. As a Marketing Manager seeking new challenges and a change of pace, I've decided to embark on a journey towards becoming a web developer. After thorough research and recommendations, I enrolled in the Coder Academy Full Stack Web Development course. I’m professionally passionate about bringing digital projects and platforms to life. My marketing experience has given me an eye for design and a passion for crafting exceptional user experiences. In previous roles I've managed new website and app builds, working closely with developers, digital producers, clients and internal stakeholders. This, and the desire to learn new skills brought me to where I am now…an eager student juggling the demands of full time work and study…let’s see how we go!",
       "author": "Noob KB",
       "id": 1
     },
     {
       "title": "Women In Tech",
-      "body": "What does it mean to be a woman in tech?",
-      "author": "Reflective KB ",
+      "body": "What does it mean to be a woman in tech? To me, it means breaking barriers, defying stereotypes and embracing our unique perspectives. It means contributing to a diverse and inclusive industry, and inspiring future generations. I'm ready to make my mark!",
+      "author": "Reflective KB",
       "id": 2
     },
     {
       "title": "Impostor Syndrome...it's real",
-      "body": "It's ok to feel like an impostor sometimes.",
+      "body": "One of the biggest hurdles I've faced so far in this course has been battling impostor syndrome. As a 'noob' in the field of web development, I've often found myself comparing my progress to that of more experienced classmates. I'm having to constantly reminde myself that everyone has their own unique journey. I also need to remind myself to focus on my strengths and celebrate small victories. Career change requires perserverance and self-belief, but it's a journey that's worth embarking on. Keep going!",
       "author": "Reflective KB",
       "id": 3
     },
     {
-      "title": "Prep work",
-      "body": "Discovering the world of free resources for aspiring coders.",
+      "title": "Sooo many resources out there!",
+      "body": "Aspiring web developers, me included, rejoice! In today's digital age, there’s an abundance of free resources available to help you kickstart your journey into the world of web development. Whether you're looking to learn a new programming language or seeking guidance on complex coding concepts, these platforms have got you covered.YouTube is a treasure trove of web development tutorials, coding walkthroughs, and industry insights. From channels dedicated to teaching front-end frameworks to in-depth discussions on back-end development, there is something for every level of student. When it comes to troubleshooting and finding solutions to coding roadblocks, Stack Overflow is the go-to platform. With a vast community of developers, you can ask questions, browse through existing threads, and benefit from the collective wisdom of experienced coders. Reddit's web development communities provide a space for discussions, sharing resources, and receiving feedback on your projects. Engaging with like-minded individuals can foster a supportive learning environment and offer valuable insights. Additionally, numerous websites offer free courses and tutorials, such as Codecademy and FreeCodeCamp.These platforms provide structured learning paths and hands-on projects to enhance your skills. Lastly, don't underestimate the power of Twitter. Following web development experts, thought leaders, and industry influencers can expose you to valuable insights, updates, and networking opportunities. Embrace the wealth of free resources available to you as an aspiring web developer. Combine these platforms, engage with the community, and leverage the collective knowledge of developers around the world to propel your learning journey. The opportunities are endless, and success is within your reach. Happy coding!",
       "author": "Curious KB",
       "id": 4
     },
     {
       "title": "CSS & HTML - a love story",
-      "body": "Working on HTML & CSS projects",
+      "body": "Embarking on the Coder Academy course, I've dived headfirst into HTML and CSS projects, discovering the joy of styling components. From tweaking colors to arranging layouts, it's exhilarating to see code come alive visually. The creative possibilities are endless, making the journey of web development an exciting and rewarding experience. The first major project is a portfolio website using only vanilla HTML and CSS...bring it on!",
       "author": "Noob KB",
       "id": 5
-    },
-    {
-      "title": "New blog",
-      "body": "New blog copy",
-      "author": "Curious KB",
-      "id": 6
-    },
-    {
-      "title": "new new new blog",
-      "body": "testing features",
-      "author": "Noob KB",
-      "id": 9
     }
   ]
 }
