@@ -1,34 +1,40 @@
 {
-    "blogs": [
-        {
-            "title": "Let the journey begin!", 
-            "body": "A life changing decision to commence the Coder Academy Bootcamp.", 
-            "author": "Noob KB", 
-            "id": 1
-        },
-        {
-            "title": "Women In Tech", 
-            "body": "What does it mean to be a woman in tech?", 
-            "author": "Reflective KB ", 
-            "id": 2
-        },
-        {
-            "title": "Impostor Syndrome...it's real", 
-            "body": "It's ok to feel like an impostor sometimes.", 
-            "author": "Reflective KB", 
-            "id": 3
-        },
-        {
-            "title": "Prep work", 
-            "body": "Discovering the world of free resources for aspiring coders.", 
-            "author": "Curious KB", 
-            "id": 4
-        },
-        {
-            "title": "CSS & HTML - a love story", 
-            "body": "Working on HTML & CSS projects", 
-            "author": "Noob KB", 
-            "id": 5
-        }
-    ]
+  "blogs": [
+    {
+      "title": "Let the journey begin!",
+      "body": "A life changing decision to commence the Coder Academy Bootcamp.",
+      "author": "Noob KB",
+      "id": 1
+    },
+    {
+      "title": "Women In Tech",
+      "body": "What does it mean to be a woman in tech?",
+      "author": "Reflective KB ",
+      "id": 2
+    },
+    {
+      "title": "Impostor Syndrome...it's real",
+      "body": "It's ok to feel like an impostor sometimes.",
+      "author": "Reflective KB",
+      "id": 3
+    },
+    {
+      "title": "Prep work",
+      "body": "Discovering the world of free resources for aspiring coders.",
+      "author": "Curious KB",
+      "id": 4
+    },
+    {
+      "title": "CSS & HTML - a love story",
+      "body": "Working on HTML & CSS projects",
+      "author": "Noob KB",
+      "id": 5
+    },
+    {
+      "title": "New blog",
+      "body": "New blog copy",
+      "author": "Curious KB",
+      "id": 6
+    }
+  ]
 }

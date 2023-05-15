@@ -9,12 +9,18 @@ const CreateBlog = () => {
         event.preventDefault();
         const blog = {title, body, author};
 
-        console.log(blog);
+        fetch("http://localhost:8000/blogs", {
+            method: "POST",
+            headers: {"Content-Type": "application/json"},
+            body: JSON.stringify(blog)
+        }) .then (() => {
+            console.log("New blog has been added!")
+        })
     }
 
     return (
         <div className="create">
-            <h2>Create new blog</h2>
+            <h2>Create a new blog</h2>
             <form onSubmit={handleSubmit}>
                 <label>Blog title:</label>
                 <input type="text" required value={title} onChange={(event) => setTitle(event.target.value)}/>
@@ -26,10 +32,7 @@ const CreateBlog = () => {
                     <option value="Curious KB">Curious KB</option>
                     <option value="Reflective KB">Reflective KB</option>
                 </select>
-                <button>Add Blog</button>
-                <p>{title}</p>
-                <p>{body}</p>
-                <p>{author}</p>
+                <button>Create Blog</button>
             </form>
         </div>
     );
