@@ -12,7 +12,9 @@ The app was developed in React, using the following libraries, methods and funct
 * Component structure to create modular, reusable functions.
 * a setTimeout to simulate data loading from an external server.
 
-**GitHub Project Link**
+**GitHub Project Link**  
+https://github.com/KarlaB3/simple-react-blog
 
-**Live App**
+**Live App**  
+
 
