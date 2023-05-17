@@ -11,11 +11,11 @@ const CreateBlog = () => {
         event.preventDefault();
         const blog = {title, body, author};
 
-        fetch("http://localhost:8000/blogs", {
+        fetch("http://localhost:8000/blogs",{
             method: "POST",
             headers: {"Content-Type": "application/json"},
             body: JSON.stringify(blog)
-        }) .then (() => {
+        }).then (() => {
             console.log("New blog has been added!");
             navigate("/");
         })
