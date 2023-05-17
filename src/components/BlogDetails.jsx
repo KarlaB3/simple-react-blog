@@ -11,7 +11,7 @@ const BlogDetails = () => {
         fetch("http://localhost:8000/blogs/" + blog.id, {
             method: "DELETE"
         }).then(() => {
-            navigate("/");
+        navigate("/");
         })
     }
 
