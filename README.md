@@ -15,6 +15,4 @@ The app was developed in React, using the following libraries, methods and funct
 **GitHub Project Link**  
 https://github.com/KarlaB3/simple-react-blog
 
-**Live App**  
-
 
